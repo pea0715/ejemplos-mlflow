@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/773654503566147215/24d21b718adb448ba5811f52485082ff/artifacts
+end_time: 1695924267954
+entry_point_name: ''
+experiment_id: '773654503566147215'
+lifecycle_stage: active
+run_id: 24d21b718adb448ba5811f52485082ff
+run_name: languid-bee-538
+run_uuid: 24d21b718adb448ba5811f52485082ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695924267788
+status: 3
+tags: []
+user_id: pablo

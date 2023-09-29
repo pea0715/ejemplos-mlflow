@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/968326614547126681/258545615e8d445b888ce52c1a355328/artifacts
+end_time: 1695874719886
+entry_point_name: ''
+experiment_id: '968326614547126681'
+lifecycle_stage: active
+run_id: 258545615e8d445b888ce52c1a355328
+run_name: angry-bee-910
+run_uuid: 258545615e8d445b888ce52c1a355328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695874719763
+status: 3
+tags: []
+user_id: pablo

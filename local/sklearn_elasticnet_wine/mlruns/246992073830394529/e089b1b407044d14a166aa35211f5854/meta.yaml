@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246992073830394529/e089b1b407044d14a166aa35211f5854/artifacts
+end_time: 1695910026625
+entry_point_name: ''
+experiment_id: '246992073830394529'
+lifecycle_stage: active
+run_id: e089b1b407044d14a166aa35211f5854
+run_name: worried-hog-898
+run_uuid: e089b1b407044d14a166aa35211f5854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695910021645
+status: 3
+tags: []
+user_id: pablo

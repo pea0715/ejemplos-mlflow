@@ -1,0 +1,4 @@
+mlflow ui
+
+python train.py 
+
